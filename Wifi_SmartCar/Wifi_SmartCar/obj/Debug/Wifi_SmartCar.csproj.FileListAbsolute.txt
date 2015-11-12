@@ -1,0 +1,9 @@
+F:\C#\自己的工程\Wifi_SmartCar\Wifi_SmartCar\Wifi_SmartCar\bin\Debug\Wifi_SmartCar.exe
+F:\C#\自己的工程\Wifi_SmartCar\Wifi_SmartCar\Wifi_SmartCar\bin\Debug\Wifi_SmartCar.pdb
+F:\C#\自己的工程\Wifi_SmartCar\Wifi_SmartCar\Wifi_SmartCar\obj\Debug\Wifi_SmartCar.csprojResolveAssemblyReference.cache
+F:\C#\自己的工程\Wifi_SmartCar\Wifi_SmartCar\Wifi_SmartCar\obj\Debug\Wifi_SmartCar.Form1.resources
+F:\C#\自己的工程\Wifi_SmartCar\Wifi_SmartCar\Wifi_SmartCar\obj\Debug\Wifi_SmartCar.Properties.Resources.resources
+F:\C#\自己的工程\Wifi_SmartCar\Wifi_SmartCar\Wifi_SmartCar\obj\Debug\Wifi_SmartCar.csproj.GenerateResource.Cache
+F:\C#\自己的工程\Wifi_SmartCar\Wifi_SmartCar\Wifi_SmartCar\obj\Debug\Wifi_SmartCar.exe
+F:\C#\自己的工程\Wifi_SmartCar\Wifi_SmartCar\Wifi_SmartCar\obj\Debug\Wifi_SmartCar.pdb
+F:\C#\自己的工程\Wifi_SmartCar\Wifi_SmartCar\Wifi_SmartCar\bin\Debug\Wifi_SmartCar.exe.config
